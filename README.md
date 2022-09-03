@@ -4,4 +4,4 @@
 
 ![architecture](doc/gateway.jpg)
 
-![sequence](doc/jwtgateway.png)
+![sequence](doc/jwt_gateway_en.jpg)
